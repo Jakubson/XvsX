@@ -24,5 +24,5 @@
 
 ## Details
 
-* You could buy JPremium in my [store](https://www.spigotmc.org/resources/xvsx.27738/) at at spigotmc.org for $6.99.
+* You could buy JPremium in my [store](https://www.spigotmc.org/resources/xvsx.27738/) at at spigotmc.org for $4.99.
 * If you want contact with me, please write in [private message](https://www.spigotmc.org/conversations/add?to=Jakubson) on the spigotmc.org.
