@@ -5,7 +5,7 @@
 * You could modify start/game/end time, award for win, max players in team, disable command in the game.
 * You could change all messages in config file.
 * You must create game manually in the config file.
-* Support 1.7 - 1.12 version of Minecraft.
+* Support 1.7 - 1.13 version of Minecraft.
 
 ## Required
 * Spigot server
